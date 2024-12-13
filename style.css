@@ -1,0 +1,92 @@
+.main-header {
+    background-color: rgb(163, 224, 247);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 100px;
+}
+.icon {
+    height: 50px;
+    width: 50px;
+}
+  
+.header-info {
+    text-align: left;
+    color: rgb(219, 84, 75);
+    position: absolute;
+    left: 0;
+    padding: 0;
+    margin: 14px 14px 0 14px;
+}
+  
+nav {
+    position: absolute;
+    right: 0;
+    display: flex;
+    font-size: 30px;
+}
+main {
+    margin-top: 100px;
+}
+  
+#jumbotron {
+    width: 100%;
+}  
+a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    float: left;
+}
+  
+  
+.jumbotron {
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(38, 70, 83);
+}
+  
+.header-flex {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+}
+  
+.jumbotron-title {
+    color: rgb(224, 251, 252);
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.jumbotron-text {
+    color: rgb(224, 251, 252);
+    text-align: middle;
+    padding-bottom: 10px;
+    border-bottom: 8px solid rgb(244, 162, 97);
+}
+.project-container {
+    display: flex;
+    justify-content: start;
+}
+.project {
+    margin: 10px 30px;
+    border-bottom: 10px solid #102c52;
+    background-color: rgb(202, 253, 253);
+    border-radius: 25px;
+    padding: 20px;
+    text-align: start;
+    font-size: 30px;
+    box-shadow: 0 0 10px gainsboro;
+}
+.article-title {
+    background-color: rgb(15, 58, 58);
+    position: relative;
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    margin: 0px 0 30px;
+}
+
+
+
+  
