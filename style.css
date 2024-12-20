@@ -42,7 +42,7 @@ a {
   
   
 .jumbotron {
-    padding: 40px;
+    padding: 50px;
     text-align: center;
     background-color: rgb(38, 70, 83);
 }
@@ -80,11 +80,11 @@ a {
 }
 .article-title {
     background-color: rgb(15, 58, 58);
-    position: relative;
     color: aliceblue;
     text-align: center;
     font-size: 40px;
-    margin: 0px 0 30px;
+    margin: 0px 0px 30px;
+    padding: 50px;
 }
 
 
