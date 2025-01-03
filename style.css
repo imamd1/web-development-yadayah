@@ -89,8 +89,18 @@ a {
 .contact{
     margin: 100px;
     font-size: 50px;
-    text-align: left;
+    text-align: center;
 }
+.container:hover .football{
+    width: 10px;
+  }
+
+
+
+
+
+
+
 
 
 
