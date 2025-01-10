@@ -31,7 +31,7 @@ main {
 }
   
 #jumbotron {
-    width: 100%;
+    width: 120%;
 }  
 a {
     text-decoration: none;
@@ -92,6 +92,22 @@ a {
     text-align: left;
 }
 
+button{
+    border: 0px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(38, 70, 83);
+    border-radius: 20px;
+    color: #fff;
+}
+
+button a {
+    color: #fff;
+}
+
+button a:hover {
+    scale: 2x;
+}
 
 
   
